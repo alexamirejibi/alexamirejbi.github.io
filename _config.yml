@@ -1,8 +1,8 @@
-title: Deconfusion
+title: deconfusion
 author: Alexandre Amiredjibi
 url: https://alexamirejibi.github.io/alexamirejibi.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  I write stuff sometimes.
+  I write about stuff sometimes.
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
@@ -20,9 +20,9 @@ theme_config:
   back_home_text: "home.." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description
-  show_navbar: true # show horizontal navbar
+  show_navbar: false # show horizontal navbar
   show_footer: false # show footer links in home page,add in _data/home.yml
-  show_copyright: true # show copyright notice in footer
+  show_copyright: false # show copyright notice in footer
   # following keys are using to create home layout
   show_projects: false # show projects as cards, add in _data/home.yml
   show_blog: true # show blog posts added in _posts
