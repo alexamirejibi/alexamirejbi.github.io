@@ -1,6 +1,6 @@
 title: deconfusion
 author: Alexandre Amiredjibi
-url: https://alexamirejibi.github.io/alexamirejibi.github.io # root address of the site
+url: https://alexamirejibi.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
   I write about stuff sometimes.
 permalink: /:slug
